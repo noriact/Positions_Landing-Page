@@ -26,13 +26,13 @@
     right: 20px;
     top: 10px;
     border: 1px dashed whitesmoke;
-    padding: 20px;
+    padding: 12px;
   }
   
   .features {
     position: relative;
-    margin-top: 30vh;
-    padding: 20px;
+    margin-top: 20%;
+    padding: 10px;
     text-align: center;
     border: 1px dashed whitesmoke;
   }
